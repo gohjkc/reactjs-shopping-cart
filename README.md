@@ -1,4 +1,4 @@
-ReactJS Shopping Cart
+## ReactJS Shopping Cart
 
 This is a simple shopping cart web app.
 
