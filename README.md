@@ -2,7 +2,7 @@ ReactJS Shopping Cart
 
 This is a simple shopping cart web app.
 
-## Available Scripts
+## Instructions
 
 In the project directory, run:
 
@@ -10,7 +10,7 @@ In the project directory, run:
 
 Installs packages and dependencies required for the app to run.
 
-## `yarn start`
+### `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -20,7 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 Launches the test runner in the interactive watch mode.\
 Currently runs 4 tests (Add product to cart, increase product quantity in cart, decrease product quantity in cart, and delete product from cart)
 
-### Technical Decisions
+## Technical Decisions
 
 1. 'useReducer', as it provides a built-in way to perform a number of different state operations with the help of the reducer function, which makes it more dynamic overall than 'useState'.
 
