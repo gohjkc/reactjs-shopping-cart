@@ -15,7 +15,7 @@ Installs packages and dependencies required for the app to run.
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### `yarn test`
+### `yarn test`, then press `a` when prompted
 
 Launches the test runner in the interactive watch mode.\
 Currently runs 4 tests (Add product to cart, increase product quantity in cart, decrease product quantity in cart, and delete product from cart)
